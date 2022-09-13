@@ -5,3 +5,13 @@ ZCZC W00 20 L00 Checking the website, course, syllabus
 ZCZC W00 40 L10 Assignment #00
 ZCZC W00 180 L02 Class Zoom meetings
 ZCZC W00 30 L05 recaping slides and doing quiz
+ZCZC W01 25 L00 Checking the website
+ZCZC W01 30 L05 recaping slides and quiz related
+ZCZC W01 100 L02 Class zoom meetings
+ZCZC W01 30 L01 Checking how to solve my weekly assignment's solution in scele forum
+ZCZC W01 30 L08 Asking my friends for the errors I found while doing the assignment
+ZCZC W01 150 L11 Assignment #01
+ZCZC W01 30 L31 Set up Virtual box, installing GNU, etc.
+ZCZC W01 10 L32 Watching Youtube to find the solution for the erros for assignment #01
+ZCZC W01 60 L80 watching youtube and anime
+ZCZC W01 120 L88 Basketball Training
