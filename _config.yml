@@ -1,0 +1,12 @@
+# version:   "0000--18-Sep-2022"
+copyright:   "2022"
+author:      "AmmarAS03"
+name:        "Ammar Ash Shiddiq"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/AmmarAS03/os222/"
+myloglink:   "/TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
