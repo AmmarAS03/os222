@@ -33,3 +33,11 @@ ZCZC W03 120 L13 Assignment #03
 ZCZC W03 15 L23 Fixing my bash
 ZCZC W03 60 L70 Studying other courses
 ZCZC W03 60 L80 Watching Youtube
+ZCZC W04 15 L01 Checking SCELE for any updates
+ZCZC W04 200 l02 ZOOM meeting online class and offline class
+ZCZC W04 15 L03 Git Related
+ZCZC W04 20 L04 Github Pages Related
+ZCZC W04 45 L05 Quiz Related
+ZCZC W04 10 L27 SSH-key related
+ZCZC W04 45 L14 Assingment #04
+ZCZC W04 30 L86 Doing house chores
