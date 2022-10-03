@@ -21,6 +21,9 @@ To see the full information of GPG key
 3. [OS Scele](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
 To make it easier for myself to check the uploaded forum, I'll put the scele link here
 
+4. [OS Website](https://os.vlsm.org/)<br>
+To access new assignment and slides, I'll put the Operating System website here
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
