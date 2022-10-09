@@ -24,6 +24,9 @@ To make it easier for myself to check the uploaded forum, I'll put the scele lin
 4. [OS Website](https://os.vlsm.org/)<br>
 To access new assignment and slides, I'll put the Operating System website here
 
+5.[Recommended Laptop 2022](https://www.cnet.com/tech/computing/best-laptop/)<br>
+Just incase any of you are looking for new laptop, here are some recomendation for laptop in 2022 to help you guys ;)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
