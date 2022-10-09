@@ -41,3 +41,11 @@ ZCZC W04 45 L05 Quiz Related
 ZCZC W04 10 L27 SSH-key related
 ZCZC W04 45 L14 Assingment #04
 ZCZC W04 30 L86 Doing house chores
+ZCZC W05 15 L01 Checking Scele for any updates
+ZCZC W05 200 L02 Online and Offline Class
+ZCZC W05 15 L03 Git related
+ZCZC W05 15 L04 Github pages related
+ZCZC W05 30 L05 Preparing for the weekly Quiz and Doing it
+ZCZC W05 90 L15 Assignment #05
+ZCZC W05 60 L80 Watching Youtube
+ZCZC W05 60 L70 Studying other courses
