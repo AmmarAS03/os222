@@ -27,6 +27,9 @@ To access new assignment and slides, I'll put the Operating System website here
 5.[Recommended Laptop 2022](https://www.cnet.com/tech/computing/best-laptop/)<br>
 Just incase any of you are looking for new laptop, here are some recomendation for laptop in 2022 to help you guys ;)
 
+6. [Learn C](https://www.w3schools.com/c)<br>
+To learn and get to know with the syntax of C
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
