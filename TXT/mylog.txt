@@ -49,3 +49,11 @@ ZCZC W05 30 L05 Preparing for the weekly Quiz and Doing it
 ZCZC W05 90 L15 Assignment #05
 ZCZC W05 60 L80 Watching Youtube
 ZCZC W05 60 L70 Studying other courses
+ZCZC W06 20 L00 Checking the website, course, syllabus
+ZCZC W06 15 L01 Checking Scele for any updates
+ZCZC W06 200 L02 ZOOM meetings online Class and Offline Class
+ZCZC W06 25 L04 Github pages related
+ZCZC W06 60 L16 Assignment #06
+ZCZC W06 50 L05 Quiz Related
+ZCZC W06 40 L80 Watching Youtube
+ZCZC W06 20 L27 generate key, SSH and Putty Related
