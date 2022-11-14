@@ -24,11 +24,14 @@ To make it easier for myself to check the uploaded forum, I'll put the scele lin
 4. [OS Website](https://os.vlsm.org/)<br>
 To access new assignment and slides, I'll put the Operating System website here
 
-5.[Recommended Laptop 2022](https://www.cnet.com/tech/computing/best-laptop/)<br>
+5. [Recommended Laptop 2022](https://www.cnet.com/tech/computing/best-laptop/)<br>
 Just incase any of you are looking for new laptop, here are some recomendation for laptop in 2022 to help you guys ;)
 
 6. [Learn C](https://www.w3schools.com/c)<br>
 To learn and get to know with the syntax of C
+
+7. [Get to Know What is Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This site helped me to understand what is fork() and it's implementation, so here you go
 
 <br>
 <hr>
