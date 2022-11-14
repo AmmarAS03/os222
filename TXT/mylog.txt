@@ -57,3 +57,11 @@ ZCZC W06 60 L16 Assignment #06
 ZCZC W06 50 L05 Quiz Related
 ZCZC W06 40 L80 Watching Youtube
 ZCZC W06 20 L27 generate key, SSH and Putty Related
+ZCZC W07 20 L00 Checking the website, course, syllabus
+ZCZC W07 15 L01 Checking Scele for any updates
+ZCZC W07 200 l02 ZOOM meeting online class and offline class
+ZCZC W07 15 L04 Github Related
+ZCZC W07 30 L05 Preparing for the quiz
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 60 L80 Watching Youtube
+ZCZC W07 60 L70 Studying other courses
