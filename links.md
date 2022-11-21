@@ -33,6 +33,12 @@ To learn and get to know with the syntax of C
 7. [Get to Know What is Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 This site helped me to understand what is fork() and it's implementation, so here you go
 
+8. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+To make it easier for everyone who want to understand more about Linux
+
+9. [Linux From Scratch - Youtube Video](https://www.youtube.com/watch?v=7ukLbyTTwGo&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=1)<br>
+The link to access the video about Linux From scratch
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
