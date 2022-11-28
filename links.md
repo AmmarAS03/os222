@@ -39,6 +39,12 @@ To make it easier for everyone who want to understand more about Linux
 9. [Linux From Scratch - Youtube Video](https://www.youtube.com/watch?v=7ukLbyTTwGo&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=1)<br>
 The link to access the video about Linux From scratch
 
+10. [What is Linux?](https://www.redhat.com/en/topics/linux/what-is-linux)<br>
+Here is for anyone to know more about linux
+
+11. [What is Operating System](https://www.techtarget.com/whatis/definition/operating-system-OS)<br>
+To help us get prepared for the Final Exam, Here is some explanation about operating system
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
