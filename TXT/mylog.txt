@@ -72,6 +72,19 @@ ZCZC W08 15 L05 Preparing for the quiz
 ZCZC W08 60 L00 Checking the website, course, syllabus
 ZCZC W08 240 L18 Assignment #08
 ZCZC W08 180 L80 Watching Youtube tutorial How to build Linux From scratch
-
-
+ZCZC W09 50 L00 Checking the website, course, syllabus
+ZCZC W09 30 L01 Checking SCELE for any updates
+ZCZC W09 200 L02 Online and Offline Class
+ZCZC W09 20 L03 Git related
+ZCZC W09 20 L04 Github pages related
+ZCZC W09 40 L05 Preparing for the weekly Quiz and Doing it
+ZCZC W09 90 L19 Assignment #05
+ZCZC W09 120 L70 Studying other courses
+ZCZC W09 30 L62 Restore virtual debian guest
+ZCZC W09 70 L71 Working for one of Fasilkom event
+ZCZC W09 180 L80 Watching Youtube tutorial how to build linux from scratch
+ZCZC W09 30 L81 Listening to Music
+ZCZC W09 30 L86 Washing Clothes, Doing House Chores
+ZCZC W09 20 L83 Feeding and Playing with pets
+ZCZC W09 80 L88 Workout and Exercise
 
