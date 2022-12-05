@@ -45,6 +45,9 @@ Here is for anyone to know more about linux
 11. [What is Operating System](https://www.techtarget.com/whatis/definition/operating-system-OS)<br>
 To help us get prepared for the Final Exam, Here is some explanation about operating system
 
+12. [Fix su - not working](https://superuser.com/questions/280048/root-password-is-not-working-for-su-in-terminal)<br>
+This link helped me to fix my problem, so for anyone that probably meet the same problem, I hope this can help.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
